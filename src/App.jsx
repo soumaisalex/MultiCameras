@@ -59,7 +59,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen w-full bg-[#0a0f1d] text-slate-100 p-6 flex flex-col justify-between">
+    <div className="min-h-screen w-full bg-[#fcf8f2] text-slate-800 p-6 flex flex-col justify-between">
       {/* Header Temático Chile */}
       <header className="mb-6 flex justify-between items-center bg-[#111a36] p-5 rounded-2xl border-l-4 border-red-600 shadow-xl border-y border-r border-slate-800">
         <div className="flex items-center gap-4">
